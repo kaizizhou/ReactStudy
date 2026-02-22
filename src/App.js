@@ -6,7 +6,7 @@ function App() {
   }
 
   const message = 'kaizizhou'
-  const count = 19
+  const count = 16
   const list = [
     { id: 1, name: 'kaizizhou' },
     { id: 2, name: 'zhoukai' },
